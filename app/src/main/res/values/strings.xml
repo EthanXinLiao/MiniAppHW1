@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StarWarsMovies </string>
+    <string name="thumbnail">This is a thumbnail.</string>
+    <string name="already">Already seen</string>
+    <string name="sees">Has seens?</string>
+    <string name="want">want see</string>
+    <string name="not">Do not like</string>
+    <string name="button">Submit</string>
+</resources>
